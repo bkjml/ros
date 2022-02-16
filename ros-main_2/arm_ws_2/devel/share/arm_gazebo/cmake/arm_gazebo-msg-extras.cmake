@@ -1,0 +1,2 @@
+set(arm_gazebo_MESSAGE_FILES "/home/matt/ros-main/arm_ws_2/src/arm_gazebo/msg/JointValues.msg;/home/matt/ros-main/arm_ws_2/src/arm_gazebo/msg/RotationTranslationInput.msg;/home/matt/ros-main/arm_ws_2/src/arm_gazebo/msg/RotationTranslationOutput.msg;/home/matt/ros-main/arm_ws_2/src/arm_gazebo/msg/GripCommand.msg")
+set(arm_gazebo_SERVICE_FILES "/home/matt/ros-main/arm_ws_2/src/arm_gazebo/srv/fk.srv;/home/matt/ros-main/arm_ws_2/src/arm_gazebo/srv/ik.srv")

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/matt/ros-main/arm_ws_2/devel/setup.sh
